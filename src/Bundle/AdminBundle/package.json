@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "node-sass": "^4.13.0",
+    "node-sass": "^6.0.1",
     "mathsass": "^0.11.0",
     "vue": "^2.6.11",
     "apollo-boost": "^0.4.7",
