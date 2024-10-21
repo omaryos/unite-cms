@@ -2,7 +2,7 @@
   "dependencies": {
     "node-sass": "^4.13.0",
     "mathsass": "^0.11.0",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "apollo-boost": "^0.4.7",
     "feather-icons": "^4.25.0",
     "graphql": "^14.5.8",
